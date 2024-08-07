@@ -1,7 +1,3 @@
-Here’s the updated README with the images included:
-
----
-
 # 🔐 Random Password Generator
 
 Welcome to the **Random Password Generator**—a user-friendly web tool designed to create secure, random passwords effortlessly. With a mix of uppercase letters, lowercase letters, numbers, and symbols, you can generate strong passwords and copy them to your clipboard with ease.
